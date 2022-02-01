@@ -1,0 +1,4 @@
+name: StopCountdown
+version: '1.0'
+main: me.loremente.stopcountdown.Main
+api-version: 1.18
